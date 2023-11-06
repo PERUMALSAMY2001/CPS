@@ -1,7 +1,7 @@
 package perumal;
 
 public class Training1 {
-	public int i = 0;
+	private int i = 0;
 	 public void bubblesort() {
 	//public static void main(String[] args) {
 		//Training1 sort = new Training1();

@@ -11,7 +11,9 @@ public class Length {
 		for(int x :arr) {
 			System.out.print(" "+x);
 		}	
-		}
-	Training1 training = new Training1();
-	Training1.
+		
+		Training1 training = new Training1();
+		int i = training.i;
+	}
+
 }
