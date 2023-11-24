@@ -6,7 +6,7 @@ public class stack_Example {
 
 	public static void main(String[] args) {
 		Stack <Integer> Stack = new Stack <Integer>();
-		System.out.println("is epmty check: "+Stack.isEmpty());
+		System.out.println("is empty check: "+Stack.isEmpty());
 		Stack.push(10);
 		Stack.push(21);
 		Stack.push(23);
